@@ -1,0 +1,72 @@
+body {
+    font-family: 'Fredoka', sans-serif;
+    background-color: #cf6e1306;
+  }
+  
+  .hero {
+    background-image: url('images/title-background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 3rem 1rem;
+    text-align: center;
+    color: white;
+  }
+  
+  .hero h1 {
+    color: #d7d2d2;
+    font-size: 85px;
+    font-weight: bold;
+    text-shadow: 5px 4px 0 black;
+  }
+  
+  h2 {
+    color: #392e21;.spaced-section {
+        margin-bottom: 5rem;
+      }
+      
+    font-weight:1000;
+    font-size: 45px;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Quicksand', sans-serif;
+  }
+  
+  .case-img {
+    max-height: 200px;
+    object-fit: cover;
+  }
+  
+  .btn-outline-dark {
+    background-color: #d8dfde;
+    color: #000000;
+    border-color: #000000;
+    border-width: 1.5px;
+  }
+  
+  .btn-outline-secondary.disabled {
+    color: #6c757d;
+    border-color: #6c757d;
+    background-color: transparent;
+  }
+  
+  .card-title {
+    color: #000000;
+    font-weight: bold;
+  }
+  
+  .card {
+    border: 1.5px solid #6c757d;
+  }
+  
+  section.container.py-4 p {
+    font-size: 1.2rem;
+    color: rgb(49, 49, 49);
+  }
+
+  .container {
+    max-width: 1400px !important; /* Bootstrap uses media queries, so override is needed */
+  }
+  
+  
