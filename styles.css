@@ -14,8 +14,8 @@ body {
   }
   
   .hero h1 {
-    color: #e3dede;
-    font-size: 90px;
+    color: #e0dddd;
+    font-size: 93px;
     font-weight: bolder;
     text-shadow: 7.5px 4px 0 black;
     font-family: 'Walter Turnercoat', cursive;
@@ -67,7 +67,7 @@ body {
   }
 
   .container {
-    max-width: 1300px !important; /* Bootstrap uses media queries, so override is needed */
+    max-width: 1300px !important;
   }
   
   
