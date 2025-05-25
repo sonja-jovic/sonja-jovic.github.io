@@ -3,41 +3,41 @@
 body {
     font-family: 'Fredoka', sans-serif;
     background-color: #cf6e1306;
-  }
-  
-  .container {
-    max-width: 1300px !important;
-  }
-  
-  /* Typography */
+}
 
-  h1,
-  h2,
-  h3,
-  h4,
-  h6 {
+.container {
+    max-width: 1300px !important;
+}
+
+/* Typography */
+
+h1,
+h2,
+h3,
+h4,
+h6 {
     font-family: 'Questrial', sans-serif;
-  }
-  
-  h2 {
+}
+
+h2 {
     color: #000000;
     font-weight: 1000;
     font-size: 45px;
-  }
-  
-  .card-title {
+}
+
+.card-title {
     color: #000000;
     font-weight: bold;
-  }
-  
-  section.container.py-4 p {
+}
+
+section.container.py-4 p {
     font-size: 1.2rem;
     color: rgb(49, 49, 49);
-  }
-  
-  /* Hero Section */
+}
 
-  .hero {
+/* Hero Section */
+
+.hero {
     background-image: url('images/title-background.jpg');
     background-size: cover;
     background-position: center;
@@ -45,42 +45,42 @@ body {
     padding: 3rem 1rem;
     text-align: center;
     color: white;
-  }
-  
-  .hero h1 {
+}
+
+.hero h1 {
     color: #e0dddd;
     font-size: 93px;
     font-weight: bolder;
     text-shadow: 7.5px 4px 0 black;
     font-family: 'Walter Turnercoat', cursive;
-  }
-  
-  /* Layout and Spacing */
+}
 
-  .spaced-section {
+/* Layout and Spacing */
+
+.spaced-section {
     margin-bottom: 5rem;
-  }
-  
-  /* Components */
-  
-  .card {
+}
+
+/* Components */
+
+.card {
     border: 1.5px solid #6c757d;
-  }
-  
-  .case-img {
+}
+
+.case-img {
     max-height: 200px;
     object-fit: cover;
-  }
-  
-  .btn-outline-dark {
+}
+
+.btn-outline-dark {
     background-color: #d8dfde;
     color: #000000;
     border-color: #000000;
     border-width: 1.5px;
-  }
-  
-  .btn-outline-secondary.disabled {
+}
+
+.btn-outline-secondary.disabled {
     color: #6c757d;
     border-color: #6c757d;
     background-color: transparent;
-  }
+}
